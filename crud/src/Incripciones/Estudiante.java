@@ -1,5 +1,6 @@
 package Incripciones;
-
+// se realizo el trabajo con ayuda externa y por medio de una herramineta sugerida por el docente para la compresion y realizacion sobre una base de datos 
+//persistentes de manera basica.
 import java.io.Serializable;
 
 public class Estudiante implements Serializable {
